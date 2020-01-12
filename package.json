@@ -1,0 +1,24 @@
+{
+  "name": "notesite",
+  "version": "1.0.0",
+  "description": "TIL site made by VuePress",
+  "main": "index.js",
+  "scripts": {
+    "doc" : "vuepress dev",
+    "build" : "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nuatmochoi/notesite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nuatmochoi/notesite/issues"
+  },
+  "homepage": "https://github.com/nuatmochoi/notesite#readme",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}

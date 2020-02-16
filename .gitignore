@@ -65,3 +65,6 @@ typings/
 
 # temp for wap9 class
 vue-pwair
+
+# shell file
+.sh

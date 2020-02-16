@@ -1,5 +1,12 @@
 module.exports = { 
     base : '/notesite/',
-    title : 'Hello VuePress',
-    description: "just playing around"
+    assetsPublicPath: '/',
+    title : 'Vuejs Lecture Note',
+    serviceWorker: true,
+    themeConfig: {
+        sidebar: [
+            '/',
+            '/02'
+        ]
+    }
 }

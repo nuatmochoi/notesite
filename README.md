@@ -1,11 +1,3 @@
-# Hello VuePress !
+# Vue.js 강의노트
 
-Hello 
-
-> markdown !
-
-::: tip
-hooray
-:::
-
-[go to other page](./hello.md)
+[Event, Instance, Component, Axios](./02.md)

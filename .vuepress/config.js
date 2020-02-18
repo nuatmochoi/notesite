@@ -5,8 +5,10 @@ module.exports = {
     serviceWorker: true,
     themeConfig: {
         sidebar: [
-            '/',
-            '/02'
+            ['/','Introduction'],
+            '/02',
+            '/03',
+            '/04'
         ]
     }
 }

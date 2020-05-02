@@ -1,7 +1,7 @@
 module.exports = { 
     base : '/notesite/',
     assetsPublicPath: '/',
-    title : 'Vuejs Lecture Note',
+    title : 'Vue.js Lecture Note',
     serviceWorker: true,
     themeConfig: {
         sidebar: [
